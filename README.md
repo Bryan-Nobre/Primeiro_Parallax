@@ -51,3 +51,6 @@ style.css: Design System, layout responsivo e estilização dos componentes.
 script.js: Configurações do GSAP, timelines de parallax e lógica dos cards.
 
 img/: Pasta contendo os assets visuais (montanhas, nuvens, ícones).
+
+
+Não é responsivo.
