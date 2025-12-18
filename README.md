@@ -1,10 +1,13 @@
 🏔️ Everest Parallax Journey
+
 Uma landing page imersiva e visualmente rica que utiliza técnicas avançadas de parallax scrolling e animações de entrada para contar a história e os desafios do Monte Everest.
 
 🎯 Sobre o Projeto
+
 Este projeto foi desenvolvido para demonstrar o uso de bibliotecas modernas de animação JavaScript em um contexto de storytelling. A página guia o usuário desde uma abertura abstrata até as profundezas informativas sobre o "Topo do Mundo", utilizando camadas de imagens que se movem em diferentes velocidades para criar uma ilusão de profundidade (3D).
 
 🚀 Funcionalidades
+
 Zoom Parallax Inicial: Um efeito de escala (zoom) em uma imagem de abertura que cria uma transição suave para o conteúdo principal.
 
 Layered Mountain Parallax: Seção principal com múltiplas camadas (céu, nuvens, montanhas de fundo, meio e frente) que reagem ao scroll do usuário de forma independente.
@@ -16,6 +19,7 @@ Cards Interativos: Uma galeria de "Outros pontos turísticos" com um sistema de 
 Design Responsivo: Adaptado para diferentes tamanhos de tela, garantindo a legibilidade em dispositivos móveis e desktops.
 
 🛠️ Tecnologias Utilizadas
+
 O projeto utiliza as seguintes ferramentas:
 
 HTML5 & CSS3: Estrutura e estilização avançada com Variáveis CSS e Flexbox/Grid.
@@ -31,15 +35,11 @@ jQuery: Utilizado para a manipulação rápida de classes nos cards interativos.
 Remix Icon: Biblioteca de ícones vetoriais.
 
 📦 Como Rodar o Projeto
-Clone o repositório:
 
-Bash
-
+Clone o repositório: 
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Abra o diretório:
 
-Bash
-
+Abra o diretório: 
 cd nome-do-repositorio
 Execução: Como o projeto utiliza apenas arquivos estáticos (HTML, CSS e JS), basta abrir o arquivo index.html em qualquer navegador ou utilizar a extensão Live Server do VS Code.
 
