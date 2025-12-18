@@ -31,11 +31,12 @@ gsap.timeline({
   .fromTo('.cloud2', {y:300},{y:-600}, 0)  // Move a nuvem 2 de y=-150 para y=-500px
   .fromTo('.cloud3', {y:300},{y:-300}, 0)   // Move a nuvem 3 de y=-50 para y=-650px
   .fromTo('.mountBg', {y:300},{y:-80}, 0)  // Move a montanha de fundo de y=-10 para y=-100px
-  .fromTo('.mountMg', {y:300},{y:-150}, 0)  // Move a montanha do meio de y=-30 para y=-250px
-  .fromTo('.mountFg', {y:300},{y:-100}, 0)  // Move a montanha da frente de y=-50 para y=-600px
+  .fromTo('.mountMg', {y:300},{y:-80}, 0)  // Move a montanha do meio de y=-30 para y=-250px
+  .fromTo('.mountFg', {y:300},{y:-80}, 0)  // Move a montanha da frente de y=-50 para y=-600px
   .fromTo('.texto-montanha', {y:-50}, {y:290}, 0)
 
   $(".option").click(function(){
     $(".option").removeClass("active");
     $(this).addClass("active");
+
   });
